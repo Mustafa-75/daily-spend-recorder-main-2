@@ -30,3 +30,36 @@ The **Expense Report Tracker** allows users to manage their daily expenses direc
 ---
 
 ## 📂 Project Structure
+
+expense_report.py         # Main executable script
+expenses.json             # Data file created after running the script
+README.md                 # Project overview and documentation
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download the repository
+2. Run the script:
+
+```bash
+python3 expense_report.py
+
+## 3.	Use the numbered menu to interact with the app
+
+🔸 Daily Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Delete Expense
+4. Exit
+Choose an option (1-4):
+
+## 🙋‍♂️ Author
+
+Mohammed Mustafa Ahmed
+Internship Project @ CodSoft – June 2025
+
+
+
+
+
